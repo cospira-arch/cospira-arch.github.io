@@ -27,7 +27,7 @@ Boundary OS proposes:
 **(Philosophical Foundation)**  
 Explores a post-dualist ethical framework where technology, humans, and environments are treated as relational agents without granting AI moral dominance.
 
-→ [Read the paper](papers/techno-animist-ethics.md)
+→ [Read the paper](https://github.com/cospira-arch/TechnoAnimism-Ethics-Framework)
 
 ---
 
