@@ -161,7 +161,7 @@ Boundary OS is also explored through visual art, generative media, and narrative
 
 This project welcomes dialogue across policy, research, art, and technology.
 
-→ [Contact & Collaboration](contact.md)
+→ [Contact & Collaboration](https://github.com/cospira-arch/Contact-Community)
 
 ---
 
