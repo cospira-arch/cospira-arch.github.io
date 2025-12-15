@@ -117,7 +117,7 @@ Primary Reference:
 
 Boundary Stability Index (BSI)
 
-🔹 Appendix G — National & Multinational Implementation Blueprint
+🔹 Appendix G — National & Trilateral Implementation Blueprint (Executive Summary available)
 
 Repository:
 https://github.com/cospira-arch/Appendix-G
@@ -129,6 +129,7 @@ Includes pilot scenarios (e.g., Singapore–Taiwan–Estonia), governance models
 Primary Reference:
 
 Boundary OS ([nation-scale operationalization](https://github.com/cospira-arch/Boundary-OS))
+
 | Appendix            | Role                      | Originating Paper        |
 | ------------------- | ------------------------- | ------------------------ |
 | Appendix Compendium | Structural index          | Boundary OS / BSI        |
