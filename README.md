@@ -63,7 +63,7 @@ Applied experiments, policy sandboxes, and simulation environments.
 - **BSI Simulator (Policy Version)**  
   Interactive tool for policymakers to simulate migration, cyber, and diplomatic stress scenarios.
 
-→ [Open the Lab](lab/bsi-simulator.md)
+→ [Open the Lab](https://github.com/cospira-arch/BSI-Simulator)
 
 ---
 
