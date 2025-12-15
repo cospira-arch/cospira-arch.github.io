@@ -6,7 +6,6 @@ Boundary OS is a research and design initiative exploring how societies can main
 This site brings together **theoretical frameworks, policy-oriented research, technical appendices, datasets, and artistic experiments** that collectively propose a new model of governance:  
 **responsive security through living boundaries.**
 
-
 Instead of treating borders, ethics, and institutions as rigid walls,  
 Boundary OS approaches them as **breathing membranes** —  
 capable of sensing stress, tuning permeability, and repairing rupture.
